@@ -1,0 +1,252 @@
+.fa-kit.fa-ans, .fak.fa-ans {
+  --fa: "\e030";
+  --fa--fa: "\e030\e030"
+}
+
+.fa-kit.fa-box-open-question, .fak.fa-box-open-question {
+  --fa: "\e021";
+  --fa--fa: "\e021\e021"
+}
+
+.fa-kit.fa-export-to-ans, .fak.fa-export-to-ans {
+  --fa: "\e031";
+  --fa--fa: "\e031\e031"
+}
+
+.fa-kit.fa-export-to-gradebook, .fak.fa-export-to-gradebook {
+  --fa: "\e011";
+  --fa--fa: "\e011\e011"
+}
+
+.fa-kit.fa-export-to-kuloket, .fak.fa-export-to-kuloket {
+  --fa: "\e012";
+  --fa--fa: "\e012\e012"
+}
+
+.fa-kit.fa-kuloket, .fak.fa-kuloket {
+  --fa: "\e028";
+  --fa--fa: "\e028\e028"
+}
+
+.fa-kit.fa-proctorio, .fak.fa-proctorio {
+  --fa: "\e024";
+  --fa--fa: "\e024\e024"
+}
+
+.fa-kit.fa-regular-book-open-circle-question, .fak.fa-regular-book-open-circle-question {
+  --fa: "\e02e";
+  --fa--fa: "\e02e\e02e"
+}
+
+.fa-kit.fa-regular-book-open-pen, .fak.fa-regular-book-open-pen {
+  --fa: "\e01d";
+  --fa--fa: "\e01d\e01d"
+}
+
+.fa-kit.fa-regular-user-circle-arrow-down, .fak.fa-regular-user-circle-arrow-down {
+  --fa: "\e016";
+  --fa--fa: "\e016\e016"
+}
+
+.fa-kit.fa-regular-user-circle-arrow-up, .fak.fa-regular-user-circle-arrow-up {
+  --fa: "\e015";
+  --fa--fa: "\e015\e015"
+}
+
+.fa-kit.fa-regular-user-circle-minus, .fak.fa-regular-user-circle-minus {
+  --fa: "\e014";
+  --fa--fa: "\e014\e014"
+}
+
+.fa-kit.fa-regular-user-circle-plus, .fak.fa-regular-user-circle-plus {
+  --fa: "\e013";
+  --fa--fa: "\e013\e013"
+}
+
+.fa-kit.fa-regular-user-pen, .fak.fa-regular-user-pen {
+  --fa: "\e01b";
+  --fa--fa: "\e01b\e01b"
+}
+
+.fa-kit.fa-regular-users-circle-arrow-down, .fak.fa-regular-users-circle-arrow-down {
+  --fa: "\e01a";
+  --fa--fa: "\e01a\e01a"
+}
+
+.fa-kit.fa-regular-users-circle-arrow-up, .fak.fa-regular-users-circle-arrow-up {
+  --fa: "\e019";
+  --fa--fa: "\e019\e019"
+}
+
+.fa-kit.fa-regular-users-circle-minus, .fak.fa-regular-users-circle-minus {
+  --fa: "\e018";
+  --fa--fa: "\e018\e018"
+}
+
+.fa-kit.fa-regular-users-circle-plus, .fak.fa-regular-users-circle-plus {
+  --fa: "\e017";
+  --fa--fa: "\e017\e017"
+}
+
+.fa-kit.fa-regular-users-slash, .fak.fa-regular-users-slash {
+  --fa: "\e01c";
+  --fa--fa: "\e01c\e01c"
+}
+
+.fa-kit.fa-solid-book-open-circle-question, .fak.fa-solid-book-open-circle-question {
+  --fa: "\e02f";
+  --fa--fa: "\e02f\e02f"
+}
+
+.fa-kit.fa-solid-book-open-pen, .fak.fa-solid-book-open-pen {
+  --fa: "\e010";
+  --fa--fa: "\e010\e010"
+}
+
+.fa-kit.fa-solid-door-open-shield, .fak.fa-solid-door-open-shield {
+  --fa: "\e026";
+  --fa--fa: "\e026\e026"
+}
+
+.fa-kit.fa-solid-file-excel-circle-arrow-down, .fak.fa-solid-file-excel-circle-arrow-down {
+  --fa: "\e005";
+  --fa--fa: "\e005\e005"
+}
+
+.fa-kit.fa-solid-file-excel-circle-arrow-right, .fak.fa-solid-file-excel-circle-arrow-right {
+  --fa: "\e029";
+  --fa--fa: "\e029\e029"
+}
+
+.fa-kit.fa-solid-file-excel-circle-arrow-up, .fak.fa-solid-file-excel-circle-arrow-up {
+  --fa: "\e003";
+  --fa--fa: "\e003\e003"
+}
+
+.fa-kit.fa-solid-file-excel-circle-plus, .fak.fa-solid-file-excel-circle-plus {
+  --fa: "\e002";
+  --fa--fa: "\e002\e002"
+}
+
+.fa-kit.fa-solid-graduation-cap-gear, .fak.fa-solid-graduation-cap-gear {
+  --fa: "\e02c";
+  --fa--fa: "\e02c\e02c"
+}
+
+.fa-kit.fa-solid-landmark-gear, .fak.fa-solid-landmark-gear {
+  --fa: "\e02d";
+  --fa--fa: "\e02d\e02d"
+}
+
+.fa-kit.fa-solid-list-check-circle-arrow-down, .fak.fa-solid-list-check-circle-arrow-down {
+  --fa: "\e027";
+  --fa--fa: "\e027\e027"
+}
+
+.fa-kit.fa-solid-table-list-magnifying-glass, .fak.fa-solid-table-list-magnifying-glass {
+  --fa: "\e032";
+  --fa--fa: "\e032\e032"
+}
+
+.fa-kit.fa-solid-user-circle-arrow-down, .fak.fa-solid-user-circle-arrow-down {
+  --fa: "\e009";
+  --fa--fa: "\e009\e009"
+}
+
+.fa-kit.fa-solid-user-circle-arrow-up, .fak.fa-solid-user-circle-arrow-up {
+  --fa: "\e00a";
+  --fa--fa: "\e00a\e00a"
+}
+
+.fa-kit.fa-solid-user-circle-minus, .fak.fa-solid-user-circle-minus {
+  --fa: "\e008";
+  --fa--fa: "\e008\e008"
+}
+
+.fa-kit.fa-solid-user-circle-plus, .fak.fa-solid-user-circle-plus {
+  --fa: "\e004";
+  --fa--fa: "\e004\e004"
+}
+
+.fa-kit.fa-solid-user-graduate-circle-minus, .fak.fa-solid-user-graduate-circle-minus {
+  --fa: "\e02a";
+  --fa--fa: "\e02a\e02a"
+}
+
+.fa-kit.fa-solid-user-graduate-circle-plus, .fak.fa-solid-user-graduate-circle-plus {
+  --fa: "\e02b";
+  --fa--fa: "\e02b\e02b"
+}
+
+.fa-kit.fa-solid-user-pen, .fak.fa-solid-user-pen {
+  --fa: "\e00f";
+  --fa--fa: "\e00f\e00f"
+}
+
+.fa-kit.fa-solid-user-sparkle, .fak.fa-solid-user-sparkle {
+  --fa: "\e025";
+  --fa--fa: "\e025\e025"
+}
+
+.fa-kit.fa-solid-users-circle-arrow-down, .fak.fa-solid-users-circle-arrow-down {
+  --fa: "\e001";
+  --fa--fa: "\e001\e001"
+}
+
+.fa-kit.fa-solid-users-circle-arrow-up, .fak.fa-solid-users-circle-arrow-up {
+  --fa: "\e00c";
+  --fa--fa: "\e00c\e00c"
+}
+
+.fa-kit.fa-solid-users-circle-minus, .fak.fa-solid-users-circle-minus {
+  --fa: "\e00b";
+  --fa--fa: "\e00b\e00b"
+}
+
+.fa-kit.fa-solid-users-circle-plus, .fak.fa-solid-users-circle-plus {
+  --fa: "\e007";
+  --fa--fa: "\e007\e007"
+}
+
+.fa-kit.fa-solid-users-rectangle-circle-minus, .fak.fa-solid-users-rectangle-circle-minus {
+  --fa: "\e01f";
+  --fa--fa: "\e01f\e01f"
+}
+
+.fa-kit.fa-solid-users-rectangle-circle-plus, .fak.fa-solid-users-rectangle-circle-plus {
+  --fa: "\e01e";
+  --fa--fa: "\e01e\e01e"
+}
+
+.fa-kit.fa-solid-users-slash, .fak.fa-solid-users-slash {
+  --fa: "\e000";
+  --fa--fa: "\e000\e000"
+}
+
+.fa-kit.fa-toledo-favicon, .fak.fa-toledo-favicon {
+  --fa: "\e006";
+  --fa--fa: "\e006\e006"
+}
+
+.fa-kit, .fak {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: var(--fa-display, inline-block);
+  font-family: Font Awesome Kit;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 1;
+  text-rendering: auto
+}
+
+.fa-kit:before, .fak:before {
+  content: var(--fa)
+}
+
+@font-face {
+  font-family: Font Awesome Kit;
+  font-style: normal;
+  font-display: block;
+  src: url(../fonts/custom-icons.9af60e72.woff2) format("woff2"), url(../fonts/custom-icons.8feba637.ttf) format("truetype")
+}
